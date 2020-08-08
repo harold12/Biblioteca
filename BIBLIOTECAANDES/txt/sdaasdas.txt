@@ -1,0 +1,5 @@
+ID=sdaasdas
+LIBRO=asda
+EDITORIAL=asda
+TIPO=poesia
+YEAR=214

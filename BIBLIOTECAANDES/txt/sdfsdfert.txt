@@ -1,0 +1,5 @@
+ID=sdfsdfert
+LIBRO=fsdf
+EDITORIAL=fsdfds
+TIPO=novela
+YEAR=454

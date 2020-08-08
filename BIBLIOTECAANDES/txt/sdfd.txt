@@ -1,0 +1,5 @@
+ID=sdfd
+LIBRO=fsdfdsf
+EDITORIAL=fdsf
+TIPO=poesia
+YEAR=35235

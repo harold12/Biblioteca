@@ -1,0 +1,5 @@
+ID=fdsfgfd
+LIBRO=fdgdf
+EDITORIAL=gdfg
+TIPO=poesia
+YEAR=43634

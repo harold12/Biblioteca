@@ -1,0 +1,5 @@
+ID=rwerwe
+LIBRO=wer
+EDITORIAL=rwer
+TIPO=poesia
+YEAR=24234

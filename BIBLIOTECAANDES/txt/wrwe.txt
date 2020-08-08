@@ -1,0 +1,5 @@
+ID=wrwe
+LIBRO=rwer
+EDITORIAL=ewr
+TIPO=teatro
+YEAR=0

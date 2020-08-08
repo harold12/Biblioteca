@@ -1,0 +1,5 @@
+ID=ñiño
+LIBRO=uilil
+EDITORIAL=liul
+TIPO=teatro
+YEAR=5745

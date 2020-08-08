@@ -1,0 +1,5 @@
+ID=234423
+LIBRO=fsdf
+EDITORIAL=fsdf
+TIPO=teatro
+YEAR=34234

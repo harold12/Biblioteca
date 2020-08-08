@@ -1,0 +1,5 @@
+ID=dasd312
+LIBRO=dsad
+EDITORIAL=dsasd
+TIPO=poesia
+YEAR=4123

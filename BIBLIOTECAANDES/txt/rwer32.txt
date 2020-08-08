@@ -1,0 +1,5 @@
+ID=rwer32
+LIBRO=rwer
+EDITORIAL=werer
+TIPO=ensayo
+YEAR=342342

@@ -1,0 +1,5 @@
+ID=sdfdsfdf
+LIBRO=fsdf
+EDITORIAL=fsdf
+TIPO=poesia
+YEAR=434

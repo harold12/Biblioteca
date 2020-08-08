@@ -1,0 +1,5 @@
+ID=asdasdas
+LIBRO=sdsd
+EDITORIAL=asfdas
+TIPO=teatro
+YEAR=12412

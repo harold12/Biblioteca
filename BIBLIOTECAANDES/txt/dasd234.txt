@@ -1,0 +1,5 @@
+ID=dasd234
+LIBRO=dasd
+EDITORIAL=dasd
+TIPO=teatro
+YEAR=214244

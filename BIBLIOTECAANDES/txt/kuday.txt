@@ -1,0 +1,5 @@
+ID=kuday
+LIBRO=ensuluz
+EDITORIAL=editorialmadafaqar
+TIPO=poesia
+YEAR=4567

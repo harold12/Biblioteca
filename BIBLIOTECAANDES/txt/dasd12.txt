@@ -1,0 +1,5 @@
+ID=dasd12
+LIBRO=dsad
+EDITORIAL=dasd
+TIPO=teatro
+YEAR=124

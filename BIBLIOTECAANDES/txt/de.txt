@@ -1,0 +1,5 @@
+ID=de
+LIBRO=de
+EDITORIAL=de
+TIPO=poesia
+YEAR=2412

@@ -1,0 +1,5 @@
+ID=dhgfh
+LIBRO=gfhfgh
+EDITORIAL=hfghfg
+TIPO=teatro
+YEAR=435345

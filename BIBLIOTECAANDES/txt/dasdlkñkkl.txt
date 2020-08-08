@@ -1,0 +1,5 @@
+ID=dasdlkñkkl
+LIBRO=sadas
+EDITORIAL=dasda
+TIPO=teatro
+YEAR=31412

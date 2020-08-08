@@ -1,0 +1,5 @@
+ID=rewrr
+LIBRO=rewr
+EDITORIAL=rwer
+TIPO=ensayo
+YEAR=3523

@@ -1,0 +1,5 @@
+ID=fastrhrt
+LIBRO=fasf
+EDITORIAL=fasf
+TIPO=teatro
+YEAR=23523

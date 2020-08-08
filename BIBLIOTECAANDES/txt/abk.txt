@@ -1,0 +1,5 @@
+ID=abk
+LIBRO=ewtwe
+EDITORIAL=0
+TIPO=novela
+YEAR=3123123

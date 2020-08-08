@@ -1,0 +1,5 @@
+ID=gegfg
+LIBRO=gsdg
+EDITORIAL=gdsgsd
+TIPO=ensayo
+YEAR=3523

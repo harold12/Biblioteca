@@ -1,0 +1,5 @@
+ID=sas
+LIBRO=asas
+EDITORIAL=sas
+TIPO=poesia
+YEAR=3113

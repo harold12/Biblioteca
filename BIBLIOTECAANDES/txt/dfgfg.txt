@@ -1,0 +1,5 @@
+ID=dfgfg
+LIBRO=gdfgdf
+EDITORIAL=gfdgdf
+TIPO=teatro
+YEAR=524542

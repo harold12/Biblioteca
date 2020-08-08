@@ -1,0 +1,5 @@
+ID=nigucci ni prada
+LIBRO=dsgsd
+EDITORIAL=sdgsg
+TIPO=novela
+YEAR=23523

@@ -1,0 +1,5 @@
+ID=asc
+LIBRO=cas
+EDITORIAL=saca
+TIPO=poesia
+YEAR=32423

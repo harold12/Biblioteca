@@ -1,0 +1,5 @@
+ID=ghmghm
+LIBRO=das
+EDITORIAL=chhkh
+TIPO=poesia
+YEAR=46346

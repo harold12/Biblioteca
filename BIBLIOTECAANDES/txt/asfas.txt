@@ -1,0 +1,5 @@
+ID=asfas
+LIBRO=dasd
+EDITORIAL=dasd
+TIPO=teatro
+YEAR=12412

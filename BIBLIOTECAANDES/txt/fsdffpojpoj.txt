@@ -1,0 +1,5 @@
+ID=fsdffpojpoj
+LIBRO=fsdfs
+EDITORIAL=sdfdf
+TIPO=teatro
+YEAR=23535

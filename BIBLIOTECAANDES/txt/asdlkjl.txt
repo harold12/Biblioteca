@@ -1,0 +1,5 @@
+ID=asdlkjl
+LIBRO=asdkjl
+EDITORIAL=ljkljkl
+TIPO=poesia
+YEAR=0

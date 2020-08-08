@@ -1,0 +1,5 @@
+ID=safdas
+LIBRO=lulil
+EDITORIAL=ñkñlk+
+TIPO=teatro
+YEAR=0

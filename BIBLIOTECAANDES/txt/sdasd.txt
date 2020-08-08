@@ -1,0 +1,5 @@
+ID=sdasd
+LIBRO=ads
+EDITORIAL=dasd
+TIPO=teatro
+YEAR=32423

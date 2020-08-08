@@ -1,0 +1,5 @@
+ID=asdastt
+LIBRO=dasd
+EDITORIAL=sadsad
+TIPO=teatro
+YEAR=0

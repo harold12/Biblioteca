@@ -1,0 +1,5 @@
+ID=konfdno
+LIBRO=sdkfn
+EDITORIAL=knfdo
+TIPO=teatro
+YEAR=32423

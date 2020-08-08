@@ -1,0 +1,5 @@
+ID=dsgfg
+LIBRO=gdfg
+EDITORIAL=gdfg
+TIPO=poesia
+YEAR=0

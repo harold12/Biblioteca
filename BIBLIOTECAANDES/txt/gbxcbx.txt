@@ -1,0 +1,5 @@
+ID=gbxcbx
+LIBRO=bxcb
+EDITORIAL=cxb
+TIPO=ensayo
+YEAR=325235

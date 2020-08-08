@@ -1,0 +1,5 @@
+ID=sfdfs
+LIBRO=fsdf
+EDITORIAL=sdfds
+TIPO=teatro
+YEAR=32423

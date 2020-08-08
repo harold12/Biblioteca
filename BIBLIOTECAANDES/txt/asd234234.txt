@@ -1,0 +1,5 @@
+ID=asd234234
+LIBRO=asdasd
+EDITORIAL=dasd
+TIPO=poesia
+YEAR=32423

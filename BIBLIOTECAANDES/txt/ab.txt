@@ -1,0 +1,5 @@
+ID=ab
+LIBRO=ewtwe
+EDITORIAL=dzxv 
+TIPO=novela
+YEAR=3123123

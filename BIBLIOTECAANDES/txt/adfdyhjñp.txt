@@ -1,0 +1,5 @@
+ID=adfdyhjñp
+LIBRO=fsdf
+EDITORIAL=ghjg
+TIPO=teatro
+YEAR=23523

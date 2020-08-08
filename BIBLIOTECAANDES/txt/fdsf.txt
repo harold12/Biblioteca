@@ -1,0 +1,5 @@
+ID=fdsf
+LIBRO=dfgdf
+EDITORIAL=dfdfs
+TIPO=poesia
+YEAR=234234

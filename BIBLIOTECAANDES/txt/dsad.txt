@@ -1,0 +1,5 @@
+ID=dsad
+LIBRO=dasd
+EDITORIAL=asfas
+TIPO=poesia
+YEAR=2342

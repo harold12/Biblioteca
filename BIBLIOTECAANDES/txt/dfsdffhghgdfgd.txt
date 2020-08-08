@@ -1,0 +1,5 @@
+ID=dfsdffhghgdfgd
+LIBRO=ewtwe
+EDITORIAL=dzxv 
+TIPO=poesia
+YEAR=3123123

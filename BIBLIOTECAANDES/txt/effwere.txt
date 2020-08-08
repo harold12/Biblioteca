@@ -1,0 +1,5 @@
+ID=effwere
+LIBRO=fasfsa
+EDITORIAL=safasf
+TIPO=teatro
+YEAR=213412

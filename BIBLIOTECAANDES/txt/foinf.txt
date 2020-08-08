@@ -1,0 +1,5 @@
+ID=foinf
+LIBRO=oiewjr
+EDITORIAL=iukno
+TIPO=poesia
+YEAR=987

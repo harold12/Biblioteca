@@ -1,0 +1,5 @@
+ID=sgf
+LIBRO=sg
+EDITORIAL=sad
+TIPO=null
+YEAR=2545

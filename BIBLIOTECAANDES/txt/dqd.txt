@@ -1,0 +1,5 @@
+ID=dqd
+LIBRO=adsd
+EDITORIAL=dasda
+TIPO=teatro
+YEAR=234234

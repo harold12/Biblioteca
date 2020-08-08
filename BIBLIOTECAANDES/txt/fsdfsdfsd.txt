@@ -1,0 +1,5 @@
+ID=fsdfsdfsd
+LIBRO=fdsfsdf
+EDITORIAL=sdfsd
+TIPO=teatro
+YEAR=3144

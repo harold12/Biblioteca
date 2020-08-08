@@ -1,0 +1,5 @@
+ID=dadsd
+LIBRO=asd
+EDITORIAL=dasd
+TIPO=poesia
+YEAR=123

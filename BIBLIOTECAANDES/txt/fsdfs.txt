@@ -1,0 +1,5 @@
+ID=fsdfs
+LIBRO=fsddf
+EDITORIAL=og9
+TIPO=poesia
+YEAR=0

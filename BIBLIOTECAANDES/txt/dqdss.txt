@@ -1,0 +1,5 @@
+ID=dqdss
+LIBRO=adsd
+EDITORIAL=dasda
+TIPO=teatro
+YEAR=0

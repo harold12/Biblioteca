@@ -1,0 +1,5 @@
+ID=te
+LIBRO=ret
+EDITORIAL=tert
+TIPO=poesia
+YEAR=2352

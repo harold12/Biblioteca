@@ -1,0 +1,5 @@
+ID=fsdffsdfd
+LIBRO=fsd
+EDITORIAL=fsdfs
+TIPO=poesia
+YEAR=43423

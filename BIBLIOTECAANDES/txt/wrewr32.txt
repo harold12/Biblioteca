@@ -1,0 +1,5 @@
+ID=wrewr32
+LIBRO=ewre
+EDITORIAL=rwer
+TIPO=novela
+YEAR=4234

@@ -1,0 +1,5 @@
+ID=abkngnfcbc h
+LIBRO=ewtwe
+EDITORIAL=0
+TIPO=poesia
+YEAR=3123123

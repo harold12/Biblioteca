@@ -1,0 +1,5 @@
+ID=fdgdfg
+LIBRO=dfgdfg
+EDITORIAL=ggdfg
+TIPO=teatro
+YEAR=3425235

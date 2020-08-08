@@ -1,0 +1,5 @@
+ID=DSASDAfdfds
+LIBRO=ASDSA
+EDITORIAL=asdas
+TIPO=poesia
+YEAR=0

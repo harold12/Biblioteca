@@ -1,0 +1,5 @@
+ID=cadfasfs
+LIBRO=ccasc
+EDITORIAL=sac
+TIPO=poesia
+YEAR=341

@@ -1,0 +1,5 @@
+ID=das
+LIBRO=asd
+EDITORIAL=asd
+TIPO=poesia
+YEAR=23131

@@ -1,0 +1,5 @@
+ID=dgdg
+LIBRO=dsgsd
+EDITORIAL=sdgsg
+TIPO=teatro
+YEAR=23523

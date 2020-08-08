@@ -1,0 +1,5 @@
+ID=asdas
+LIBRO=dasd
+EDITORIAL=das
+TIPO=teatro
+YEAR=124312

@@ -1,0 +1,5 @@
+ID=fasfasf
+LIBRO=fasfa
+EDITORIAL=fasf
+TIPO=poesia
+YEAR=3525
